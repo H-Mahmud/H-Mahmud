@@ -21,14 +21,14 @@
 
 <a href="https://github.com/H-Mahmud"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-mahmud&theme=tokyonight" alt="h-mahmud" style="width: 100%; height: auto;" /></a>
 
-<div style="display: flex; justify-content: flex-start; gap:24px;">
+<div>
 
   <a href="https://github.com/H-Mahmud">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Mahmud&layout=donut-vertical&theme=tokyonight" alt="Top Langs" style="max-width: 100%; height: auto;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Mahmud&layout=donut-vertical&theme=tokyonight" alt="Top Langs" style="max-width: 100%; height: auto;" />
   </a>
 
   <a href="https://github.com/H-Mahmud">
-    <img src="https://github-readme-stats.vercel.app/api?username=H-Mahmud&theme=tokyonight&show_icons=true&include_all_commits=true&show_owner=true" alt="Mahmud's GitHub stats" style="max-width: 100%; height: auto;" />
+    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=H-Mahmud&theme=tokyonight&show_icons=true&include_all_commits=true&show_owner=true" alt="Mahmud's GitHub stats" style="max-width: 100%; height: auto;" />
   </a>
 
 </div>
